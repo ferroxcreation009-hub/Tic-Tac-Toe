@@ -27,4 +27,4 @@ using pure HTML, CSS and JavaScript.
 Made by Ankush Khan
 
 🔗 LinkedIn: https://www.linkedin.com/in/ankush-khan-6a6219411/
-🎮 Live Demo: ferroxcreation009-hub.github.io/Tic-Tac-Toe
+🎮 Live Demo: https://ferroxcreation009-hub.github.io/Tic-Tac-Toe
